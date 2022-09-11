@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1235" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/drawable/box_shap.xml" value="0.1235" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/drawable/button_shap.xml" value="0.1235" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/drawable/colour_shap.xml" value="0.1235" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1025" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/drawable/ic_baseline_mode_comment_24.xml" value="0.1235" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/drawable/ic_comment_24.xml" value="0.1145" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1235" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/font/font.xml" value="0.22870370370370371" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/layout-v28/activity_name_translation.xml" value="0.209375" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/layout/activity_about.xml" value="0.209375" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/layout/activity_all_name.xml" value="0.209375" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/layout/activity_bismillah.xml" value="0.209375" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/layout/activity_name_of_allah.xml" value="0.1" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/layout/activity_name_translation.xml" value="0.18" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/layout/activity_name_view.xml" value="0.22" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/layout/item_roe.xml" value="0.209375" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/layout/item_row.xml" value="0.20833333333333334" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/menu/manu.xml" value="0.5025" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/menu/nav_manu.xml" value="0.209375" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Andriod/android app/2nd Sape/5th/Allah 99 name/app/src/main/res/xml/activity_name_translation.xml" value="0.209375" />
+        <entry key="..\:/Andriod/android app/git file ok/Final_ok/Allah 99 name/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1025" />
+        <entry key="..\:/Andriod/android app/git file ok/Final_ok/Allah 99 name/app/src/main/res/layout/activity_bismillah.xml" value="0.209375" />
+        <entry key="..\:/Andriod/android app/git file ok/Final_ok/Allah 99 name/app/src/main/res/layout/activity_name_translation.xml" value="0.209375" />
+        <entry key="..\:/Andriod/android app/git file ok/Final_ok/Allah 99 name/app/src/main/res/layout/activity_name_view.xml" value="0.209375" />
+        <entry key="..\:/Andriod/android app/git file ok/Final_ok/Allah 99 name/app/src/main/res/layout/fragment_blank.xml" value="0.209375" />
+        <entry key="..\:/Andriod/android app/git file ok/Final_ok/Allah 99 name/app/src/main/res/layout/item_row.xml" value="0.1953125" />
+        <entry key="..\:/Andriod/android app/git file ok/Final_ok/Allah 99 name/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1025" />
+        <entry key="..\:/Andriod/android app/git file ok/Final_ok/Allah 99 name/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1025" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
