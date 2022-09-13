@@ -14,4 +14,4 @@ RecyclerView - Display large sets of data in your UI while minimizing memory usa
 
 Material Components for Android - Modular and customizable Material Design UI components for Android.
 
-ViewBinding - Generates a binding class for each XML layout file present in that module and allows you to more easily write code that interacts with views.
+DataBinding - The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically.
